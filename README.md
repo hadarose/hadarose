@@ -1,17 +1,16 @@
 ![image](https://user-images.githubusercontent.com/68274794/102081683-4ce34780-3e19-11eb-91aa-63d681d86dbb.png)
 
-## **About**
-#### Hi there 🙃 I'm the Rosenwoman 🌹⚡🌹
-I'm a junior frontend developer, in love with React and currently examining my relationship with Angular.
+### Hi there 🙃👋 I'm the Rosenwoman 🌹
+I'm a junior software developer, mainly frontend but also experienced with Node.js.    
+Basically in love with React, and currently examining my relationship with Angular.
 
-## **#OpenToWork** 
-#### Front End Developer • Web Developer • Junior Full Stack Developer 
+### #OpenToWork
+Front End Developer • Web Developer • Junior Full Stack Developer 
 
-## **Languages & Technologies**
-#### JavaScript • HTML • CSS • React.js • Node.js • MongoDB • C •
+### Languages & Technologies
+JavaScript • HTML • CSS • React.js • Node.js • MongoDB • C •
 
-## **Check out my latest project in React/Hooks**
-#### [link to Rosenflix](https://rosenflix.herokuapp.com/)
+### Check out my latest project in React/Hooks 👉 [link to Rosenflix](https://rosenflix.herokuapp.com/)
 
 
 <!--
