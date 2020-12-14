@@ -12,6 +12,19 @@ JavaScript • HTML • CSS • React.js • Node.js • MongoDB • C •
 
 ### Check out my latest project in React/Hooks 👉 [link to Rosenflix](https://rosenflix.herokuapp.com/)
 
+### And this is my very first project in HTML/CSS 👉 [link to RosenMix](https://rose-n-mix.herokuapp.com/)
+So I could always check out the progress I've made, both in programming and in TIC-TAC-TOE 💪
+
+![image](https://user-images.githubusercontent.com/68274794/102089888-76a26b80-3e25-11eb-841b-e36ce176ecb3.png)
+
+
+
+
+
+
+
+
+
 
 <!--
 **hadarose/hadarose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
