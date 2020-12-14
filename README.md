@@ -2,7 +2,7 @@
 
 ### Hi there 🙃👋 I'm the Rosenwoman 🌹
 I'm a junior software developer, mainly frontend but also experienced with Node.js.    
-Basically in love with React, and currently examining my relationship with Angular.
+Basically in love with React, and currently examining my relationship with Angular... 🤭
 
 ### #OpenToWork
 Front End Developer • Web Developer • Junior Full Stack Developer 
