@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/68274794/102081683-4ce34780-3e19-11eb-91aa-63d681d86dbb.png)
 
 ### Hi there 🙃👋 I'm the Rosenwoman 🌹
-I'm a junior software developer, mainly frontend but also experienced with Node.js.    
+I'm a junior software developer, mainly client-side (React), but also experienced with backend (Node.js).    
 Basically in love with React, and currently examining my relationship with Angular... 🤭
 
 ### #OpenToWork
