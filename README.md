@@ -5,7 +5,7 @@ I'm a junior full-stack developer, but my passion is mainly frontend, as I'm a b
 Basically in love with React, and currently examining my relationship with Angular... 🤭
 
 ### #OpenToWork
-Front End Developer • Web Developer • Junior Full Stack Developer 
+Front End Developer
 
 ### Languages & Technologies
 JavaScript • HTML • CSS • React.js • Node.js • MongoDB • C •
